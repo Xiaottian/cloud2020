@@ -1,4 +1,4 @@
-package com.slasher.springcloud.alibaba.controller;
+package com.slasher.springcloud.alibaba;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.GetMapping;
